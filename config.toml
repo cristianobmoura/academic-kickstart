@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+title = "Cristiano Moura @ CEFET/RJ"
+copyright = "&copy; 2017 Cristiano"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -32,27 +32,27 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Cristiano Moura"
+  role = "Professor de Ensino de Ciências/Química"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "CEFET/RJ", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "cristiano.moura@cefet-rj.br"
+  address = "Rua do Imperador, 971. Petrópolis - RJ - Brasil."
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -83,8 +83,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "-22.5115352"
+  longitude = "-43.1783461"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -205,22 +205,27 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:cristiano.moura@cefet-rj.br"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/cbmoura_"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com.br/citations?user=vcj0QOQAAAAJ"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0001-7136-634X"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Cristiano_Moura2"
 
 
 # Navigation Links
@@ -240,11 +245,6 @@ defaultContentLanguageInSubdir = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
 
 [[menu.main]]
   name = "Projects"
