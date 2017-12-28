@@ -17,18 +17,18 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[Educação.courses]]
-  course = "Dr. (em andamento) em Ciência, Tecnologia e Educação"
+[[Education.courses]]
+  course = "Doutorado (em andamento) em Ciência, Tecnologia e Educação"
   institution = "CEFET/RJ"
   year = 2019
 
-[[Educação.courses]]
-  course = "Me. em Ciência, Tecnologia e Educação"
+[[Education.courses]]
+  course = "Mestrado em Ciência, Tecnologia e Educação"
   institution = "CEFET/RJ"
   year = 2014
 
 [[Educação.courses]]
-  course = "Lic. em Química"
+  course = "Licenciatura em Química"
   institution = "UFRJ"
   year = 2013
  
