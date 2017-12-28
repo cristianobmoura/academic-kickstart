@@ -8,8 +8,8 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
+[Interesses]
+  interesses = [
     "História, Filosofia e Sociologia das Ciências no Ensino de Ciências",
     "Estudos Culturais na Educação em Ciências",
     "Ensino de Química",
@@ -17,17 +17,17 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+[[Educação.courses]]
   course = "Dr. (em andamento) em Ciência, Tecnologia e Educação"
   institution = "CEFET/RJ"
   year = 2019
 
-[[education.courses]]
+[[Educação.courses]]
   course = "Me. em Ciência, Tecnologia e Educação"
   institution = "CEFET/RJ"
   year = 2014
 
-[[education.courses]]
+[[Educação.courses]]
   course = "Lic. em Química"
   institution = "UFRJ"
   year = 2013
