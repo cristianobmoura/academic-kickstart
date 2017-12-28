@@ -1,4 +1,4 @@
-baseurl = "https://cbmoura.netlify.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Cristiano Moura at CEFET/RJ"
 copyright = "&copy; 2017 Cristiano"
 theme = "academic"
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Cristiano Moura"
-  role = "Professor de Ensino de Ciências/Química"
+  role = "Professor de Ensino de Ciências / Química"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
