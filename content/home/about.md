@@ -27,7 +27,7 @@ weight = 5
   institution = "CEFET/RJ"
   year = 2014
 
-[[Educação.courses]]
+[[Education.courses]]
   course = "Licenciatura em Química"
   institution = "UFRJ"
   year = 2013
